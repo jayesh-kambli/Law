@@ -1,0 +1,39 @@
+.happyClientsMainBg {
+    background-color: var(--color-light);
+}
+
+.happyClientsMainHeading {
+    font-size: 4rem;
+    color: white;
+}
+
+.cardHead2 {
+    color: white;
+    margin: 0px;
+}
+
+.giftLogohappy {
+    border-radius: 360px;
+    margin-bottom: 1rem;
+    height: 4rem;
+    width: 4rem;
+}
+
+.ArrowsInHappyClient1, .ArrowsInHappyClient2 {
+    font-size: 3rem !important;
+    padding: 1rem;
+    border-radius: 360px;
+    margin-inline: 0.5rem;
+}
+
+.ArrowsInHappyClient1{
+background-color: white;
+}
+
+.ArrowsInHappyClient2 {
+    background-color: var(--color-yellow);
+}
+
+.ArrowsInHappyClient1:hover, .ArrowsInHappyClient2:hover {
+    cursor: pointer;
+}

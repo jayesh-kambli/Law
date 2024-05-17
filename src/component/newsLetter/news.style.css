@@ -1,0 +1,52 @@
+.newsMainBg {
+    background-color: var(--color-light);
+    padding-block: 5rem;
+}
+
+.newsinnerdiv {
+    background-color: var(--color-light2);
+    width: 60vw;
+    padding-inline: 5rem;
+    padding-block: 6rem;
+}
+
+.newsHeading {
+    color: white;
+    margin: 0px;
+    margin-bottom: 3rem;
+    font-size: 3rem;
+    font-weight: 300;
+}
+
+.newsInp1, .newsInp2, .newsBtn {
+    height: 5em !important;
+    box-sizing: border-box;
+    border: 0px;
+    margin-right: 0.4rem !important;
+}
+
+.newsInp1, .newsInp2 {
+    padding: 1rem;
+    width: 20vw;
+    font-style: italic;
+    padding-inline: 2rem;
+}
+
+.newsInp1 {
+    border-radius: 1rem 0 0 1rem;
+}
+
+.newsInp2 {
+
+}
+
+.newsBtn {
+    border-radius: 0 1rem 1rem 0;
+    background-color: var(--color-yellow);
+    width: 10vw;
+    font-weight: 600;
+}
+
+.newsInp1:focus, .newsInp2:focus {
+    outline: none;
+}

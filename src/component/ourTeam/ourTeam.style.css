@@ -1,0 +1,39 @@
+.teamBackgroundMain {
+    background-color: var(--color-light);
+}
+
+.teamMainHeading {
+    color: white;
+    font-size: 5rem;
+}
+
+.mainPill {
+height: 7rem;
+width: 20rem;
+border-radius: 1rem;
+margin-bottom: 2rem;
+}
+
+.spPill {
+    background-color: var(--color-yellow) !important;
+}
+
+.pillImage {
+    height: 4rem;
+    width: 4rem;
+    object-position: center;
+    object-fit: cover;
+    border-radius: 360px;
+    margin: 1rem;
+}
+
+.innderPillDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+.OnlyPillColor {
+    color: var(--color-light3);
+}

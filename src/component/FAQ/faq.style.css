@@ -1,0 +1,28 @@
+.faqBg {
+    background-color: var(--color-light);
+}
+
+.faqSUBDIV {
+    width: 80vw;
+}
+
+.Accordion {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.dropTitle {
+    color: white;
+    font-size: 1.5rem !important;
+    margin-block: 1.7rem !important;
+}
+
+.addIcon {
+    background-color: var(--color-yellow);
+    color: black;
+    padding: 0.6rem;
+    border-radius: 360px;
+}
+
+.dropDesc {
+    color: var(--color-light3);
+}

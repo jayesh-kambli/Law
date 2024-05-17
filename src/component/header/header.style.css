@@ -1,0 +1,31 @@
+.bg {
+    background-color: var(--color-dark) !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.setHeght {
+    min-height: 15vh;
+    width: 80vw !important;
+}
+
+.logo {
+    height: 2rem;
+    width: auto;
+}
+
+.inherit{
+    color: white !important;
+    text-transform: none !important;
+    font-size: 1rem !important;
+    margin-left: 1rem !important;
+    margin-right: 1rem !important;
+}
+
+.contact {
+    width: 10rem;
+    padding: 3rem;
+    border: 2px solid white !important;
+    border-radius: 0px !important;
+}

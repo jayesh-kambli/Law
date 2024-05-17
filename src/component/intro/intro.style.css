@@ -1,0 +1,42 @@
+.bgIntro {
+    min-height: 60vh ;
+    background-color: var(--color-light);
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.introMain {
+    width: 80vw !important;
+    margin-top: 8rem;
+    color: white;
+}
+
+.introMainHeading {
+    font-size: 4rem;
+}
+
+.lineLight {
+    height: 100%;
+    /* background-color: white !important; */
+    background-color: var(--color-light3) !important;
+    width: 2px !important;
+}
+
+.makeHorizontal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.gridForCriminalLawyer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pText {
+    color: var(--color-light3);
+}

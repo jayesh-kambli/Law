@@ -1,0 +1,20 @@
+.footerMainBg {
+    background-color: var(--color-dark);
+    /* height: 100vh; */
+}
+
+.socialIcon {
+    height: 1.8rem;
+    margin-inline: 0.8rem;
+}
+
+.socialIcon:hover {
+    cursor: pointer;
+}
+
+.footerCopyright p {
+    font-size: 0.8rem !important;
+    margin-inline: 1rem;
+    font-weight: 100 !important;
+    color: rgba(255,255,255,0.6);
+}
